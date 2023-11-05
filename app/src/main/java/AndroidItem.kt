@@ -1,0 +1,1 @@
+data class AndroidItem(val version: String, val codeName: String)
